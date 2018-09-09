@@ -2,6 +2,7 @@
 /* eslint-disable  no-console */
 
 const Alexa = require('ask-sdk-core');
+const States = require('./states.json');
 
 const LaunchRequestHandler = {
   canHandle(handlerInput) {
@@ -9,7 +10,7 @@ const LaunchRequestHandler = {
   },
   handle(handlerInput) {
     const speechText = 'Welcome to the Alexa Skills Kit, you can say hello!';
-
+    console.log(States[0]);
     return handlerInput.responseBuilder
       .speak(speechText)
       .reprompt(speechText)

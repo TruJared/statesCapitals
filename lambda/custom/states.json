@@ -1,0 +1,72 @@
+{
+  "one": {
+    "California": { "capital": "Sacramento" },
+    "New York": { "capital": "Albany" },
+    "Hawaii": { "capital": "Honolulu" },
+    "Alaska": { "capital": "Juneau" },
+    "Texas": { "capital": "Austin" }
+  },
+  "two": {
+    "New Jersey": { "capital": "Trenton" },
+    "Colorado": { "capital": "Denver" },
+    "Florida": { "capital": "Tallahassee" },
+    "Georgia": { "capital": "Atlanta" },
+    "Virginia": { "capital": "Richmond" }
+  },
+  "three": {
+    "Massachusetts": { "capital": "Boston" },
+    "Arizona": { "capital": "Phoenix" },
+    "Ohio": { "capital": "Columbus" },
+    "New Hampshire": { "capital": "Concord" },
+    "Pennsylvania": { "capital": "Harrisburg" }
+  },
+  "four": {
+    "Nevada": { "capital": "Carson City" },
+    "South Carolina": { "capital": "Columbia" },
+    "North Carolina": { "capital": "Raleigh" },
+    "Maine": { "capital": "Augusta" },
+    "Maryland": { "capital": "Annapolis" }
+  },
+  "five": {
+    "Rhode Island": { "capital": "Providence" },
+    "Tennessee": { "capital": "Nashville" },
+    "Illinois": { "capital": "Springfield" },
+    "Utah": { "capital": "Salt Lake City" },
+    "Wisconsin": { "capital": "Madison" }
+  },
+  "six": {
+    "Indiana": { "capital": "Indianapolis" },
+    "Alabama": { "capital": "Montgomery" },
+    "Connecticut": { "capital": "Hartford" },
+    "Delaware": { "capital": "Dover" },
+    "Idaho": { "capital": "Boise" }
+  },
+  "seven": {
+    "Iowa": { "capital": "Des Moines" },
+    "Minnesota": { "capital": "St. Paul" },
+    "Louisiana": { "capital": "Baton Rouge" },
+    "Mississippi": { "capital": "Jackson" },
+    "Kentucky": { "capital": "Frankfort" }
+  },
+  "Eight": {
+    "New Mexico": { "capital": "Santa Fe" },
+    "Arkansas": { "capital": "Little Rock" },
+    "West Virginia": { "capital": "Charleston" },
+    "Wyoming": { "capital": "Cheyenne" },
+    "Kansas": { "capital": "Topeka" }
+  },
+  "Nine": {
+    "Oklahoma": { "capital": "Oklahoma City" },
+    "Missouri": { "capital": "Jefferson City" },
+    "Montana": { "capital": "Helena" },
+    "Michigan": { "capital": "Lansing" },
+    "Nebraska": { "capital": "Lincoln" }
+  },
+  "Ten": {
+    "North Dakota": { "capital": "Bismark" },
+    "Oregon": { "capital": "Salem" },
+    "South Dakota": { "capital": "Pierre" },
+    "Vermont": { "capital": "Montpelier" },
+    "Washington": { "capital": "Olympia" }
+  }
+}
